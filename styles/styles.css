@@ -1,0 +1,50 @@
+ main {
+     margin: 30px auto;
+     width: 375px;
+     height: 488px;
+     border-radius: 15px;
+     border: 2px solid black;
+     background: linear-gradient(130deg, #c6ddf8 0%, #a2b4cb 40%, #a2b4cb 60%, #c6ddf8 100%);
+ }
+
+ #answer {
+     margin: 25px auto;
+     width: 342px;
+     height: 65px;
+     background: white;
+     font-family: "SF Digital Readout";
+     font-style: oblique;
+     font-size: 76px;
+     text-align: right;
+     padding-right: 13px;
+     border: 1px solid black;
+ }
+
+ #buttons {
+     width: 366px;
+     margin: 30px auto;
+ }
+
+ table {
+     width: 366px;
+     margin-bottom: 30px;
+ }
+
+ td {
+     width: 80px;
+     height: 80px;
+     text-align: center;
+ }
+
+ div {
+     width: 80px;
+     height: 80px;
+     background: #eee;
+     display: table-cell;
+     vertical-align: middle;
+     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+     font-size: 70px;
+     border-radius: 10px;
+     border: 1px solid black;
+     cursor: pointer;
+ }
